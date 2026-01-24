@@ -33,7 +33,7 @@
 ## 📫 Connect With Me
 
 
-- LinkedIn: your-link-here
+- LinkedIn: https://www.linkedin.com/in/mr-dhananjay-kumar-b45988343/
 
 ---
 
