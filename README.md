@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 - **Backend:** C#, ASP.NET Core,ASP.NET MVC,Ado.NET, Web API, MVC  
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap,Angular  
+- **Frontend:** HTML5, CSS3, JavaScript,TypeScript, Bootstrap,Angular  
 - **Database:** SQL Server  
 - **Tools:** Git, GitHub, Visual Studio, VS Code  
 
@@ -33,7 +33,7 @@
 ## 📫 Connect With Me
 
 
-- LinkedIn: https://www.linkedin.com/in/mr-dhananjay-kumar-b45988343/
+- LinkedIn: [https://www.linkedin.com/in/dhananjay-kumar-b45988343/
 
 ---
 
